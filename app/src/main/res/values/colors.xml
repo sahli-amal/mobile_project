@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_color">#2C7873</color>
+    <color name="button_color">#e8c4bd</color>
+    <color name="icon_color">#9E9E9E</color>
+
+    <color name="purple">#8692f7</color>
+    <color name="purple2">#A528BA</color>
+    <color name="purple3">#9A6CEC</color>
+    <color name="blueclair">#65CDC6</color>
+    <color name="blue">#3285AA</color>
+    <color name="beige">#CC7A7A</color>
+    <color name="grey">#CAEFFF</color>
+    <color name="yell">#F8D8CE</color>
+
+</resources>
